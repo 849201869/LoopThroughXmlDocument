@@ -1,0 +1,15 @@
+D:\visual stodio exp\xml\LoopThroughXmlDocument\LoopThroughXmlDocument\bin\Debug\LoopThroughXmlDocument.exe.config
+D:\visual stodio exp\xml\LoopThroughXmlDocument\LoopThroughXmlDocument\bin\Debug\LoopThroughXmlDocument.exe
+D:\visual stodio exp\xml\LoopThroughXmlDocument\LoopThroughXmlDocument\bin\Debug\LoopThroughXmlDocument.pdb
+D:\visual stodio exp\xml\LoopThroughXmlDocument\LoopThroughXmlDocument\obj\Debug\LoopThroughXmlDocument.csprojResolveAssemblyReference.cache
+D:\visual stodio exp\xml\LoopThroughXmlDocument\LoopThroughXmlDocument\obj\Debug\MainWindow.g.cs
+D:\visual stodio exp\xml\LoopThroughXmlDocument\LoopThroughXmlDocument\obj\Debug\App.g.cs
+D:\visual stodio exp\xml\LoopThroughXmlDocument\LoopThroughXmlDocument\obj\Debug\LoopThroughXmlDocument_MarkupCompile.cache
+D:\visual stodio exp\xml\LoopThroughXmlDocument\LoopThroughXmlDocument\obj\Debug\LoopThroughXmlDocument_MarkupCompile.lref
+D:\visual stodio exp\xml\LoopThroughXmlDocument\LoopThroughXmlDocument\obj\Debug\MainWindow.baml
+D:\visual stodio exp\xml\LoopThroughXmlDocument\LoopThroughXmlDocument\obj\Debug\LoopThroughXmlDocument.g.resources
+D:\visual stodio exp\xml\LoopThroughXmlDocument\LoopThroughXmlDocument\obj\Debug\LoopThroughXmlDocument.Properties.Resources.resources
+D:\visual stodio exp\xml\LoopThroughXmlDocument\LoopThroughXmlDocument\obj\Debug\LoopThroughXmlDocument.csproj.GenerateResource.Cache
+D:\visual stodio exp\xml\LoopThroughXmlDocument\LoopThroughXmlDocument\obj\Debug\LoopThroughXmlDocument.csproj.CoreCompileInputs.cache
+D:\visual stodio exp\xml\LoopThroughXmlDocument\LoopThroughXmlDocument\obj\Debug\LoopThroughXmlDocument.exe
+D:\visual stodio exp\xml\LoopThroughXmlDocument\LoopThroughXmlDocument\obj\Debug\LoopThroughXmlDocument.pdb
